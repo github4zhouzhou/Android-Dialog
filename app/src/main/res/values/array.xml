@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_items">
+        <item>王菲</item>
+        <item>王力宏</item>
+        <item>帅哥</item>
+        <item>美女</item>
+    </string-array>
+</resources>
